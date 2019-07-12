@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is basically tags that describe what they are/do. For example, the tags <header> and <footer> tell you what they are in the tag, whereas a <div> doesn’t give you any indication of what is contained within it.
+Semantic HTML is basically tags that describe what they are/do. For example, the tags '''header''' and '''footer''' tell you what they are in the tag, whereas a '''div''' doesn’t give you any indication of what is contained within it.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
